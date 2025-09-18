@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi, I'm Akshay 👋
+💻 Full-stack Developer | 🚀 Open Source Enthusiast | 📊 Data Nerd
 
 <!--
 **Akshaykumar2004/Akshaykumar2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
