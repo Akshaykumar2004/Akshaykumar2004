@@ -15,25 +15,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaykumarpb&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumarpb&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
-## 🔥 Streak & Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akshaykumarpb&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykumarpb&theme=redical" alt="Contribution Graph" />
-</p>
-
----
-
 ## 💬 Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
